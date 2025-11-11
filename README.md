@@ -51,7 +51,7 @@ Durante la instalación:
 * Email del administrador
 * Activa servicios recomendados: **nginx + php-fpm + mariadb + fail2ban + firewall**
 
-> ⚙️ Hestia instalará y configurará automáticamente UFW, por lo tanto **no instales ni modifiques UFW manualmente**.
+> ⚙️ Hestia instalará y configurará automáticamente iptables, por lo tanto **no instales ni modifiques iptables manualmente**.
 
 ---
 
